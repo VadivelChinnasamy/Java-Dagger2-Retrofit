@@ -1,0 +1,1 @@
+This example is simple dependency injection and easy to understand
